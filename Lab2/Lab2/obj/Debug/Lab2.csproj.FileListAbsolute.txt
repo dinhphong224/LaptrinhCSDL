@@ -1,0 +1,30 @@
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\bin\Debug\BusinessLogic.dll
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\bin\Debug\DataAccess.dll
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\bin\Debug\BusinessLogic.pdb
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\bin\Debug\DataAccess.pdb
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\bin\Debug\BusinessLogic.dll
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\bin\Debug\DataAccess.dll
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\bin\Debug\BusinessLogic.pdb
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\bin\Debug\DataAccess.pdb
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb

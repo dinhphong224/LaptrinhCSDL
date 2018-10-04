@@ -1,0 +1,12 @@
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\DataAccess\bin\Debug\DataAccess.dll
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\DataAccess\bin\Debug\DataAccess.pdb
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\DataAccess\obj\Debug\DataAccess.dll
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\DataAccess\obj\Debug\DataAccess.pdb

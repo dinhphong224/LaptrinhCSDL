@@ -1,0 +1,18 @@
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\BusinessLogic\bin\Debug\DataAccess.dll
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\CUATRAMNHAHIHI\HocTap\HK7\LTCSDL\Lab2\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Nguyen Dinh Phong\Downloads\Nhom3_D15PM02_Lab2\Lab2\BusinessLogic\obj\Debug\BusinessLogic.pdb
